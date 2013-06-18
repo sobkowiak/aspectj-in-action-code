@@ -2,7 +2,7 @@
 
 This repository contains the source code for the [*AspectJ in Action*][laddad].
 
-## Cloning and syncing with the SVN repository
+## Cloning
 
 To clone this repository, please run following command:
    
